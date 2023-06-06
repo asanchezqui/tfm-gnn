@@ -1,6 +1,6 @@
 # Description
 
-This is the code used for the final master's degree "Graph Neural Networks for Fast Node Ranking Approximation".
+This is the code used for the final master's degree "Forecasting Betweenness Centrality with Graph Neural Networks".
 It is necessary noticing that the main part of this code has been extracted from https://github.com/sunilkmaurya/GNN_Ranking since the related TFM is mainly focused on the GNN framework introduced at the referenced repository.
 
 # Parts of the code
